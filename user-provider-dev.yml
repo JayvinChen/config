@@ -28,4 +28,4 @@ eureka:
     lease-renewal-interval-in-seconds: 30
 
 test:
-  message: 12345
+  message: 12345678
